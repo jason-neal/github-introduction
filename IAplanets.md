@@ -11,3 +11,4 @@ A list of users from the IA planets thematic line
 * [Susana Barros](https://github.com/susana98)
 * [Andressa Ferreira](https://github.com/acsferreira)
 * [Luisa Maria Serrano](https://github.com/LuisaMaria)
+* [Solène Ulmer-Moll](https://github.com/soleneulmer)
