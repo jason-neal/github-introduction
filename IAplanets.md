@@ -9,3 +9,4 @@ A list of users from the IA planets thematic line
 * [Maria Tsantaki](https://github.com/MariaTsantaki)
 * [João Camacho](https://github.com/jdavidrcamacho)
 * [Susana Barros](https://github.com/susana98)
+* [Andressa Ferreira](https://github.com/acsferreira)
